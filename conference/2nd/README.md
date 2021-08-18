@@ -9,7 +9,7 @@
 | 행사 오프닝 | 윤주상 교수<BR>(동의대학교) |
 | 축사 | 김형철 PM(IITP) |
 | 키노트 : 5G 기반 AI응급의료시스템 기술 개발 사례 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/2nd/presentation/2nd_01_keynote_connectai.pdf)) | 장혁재 단장<BR>(연세의료원) |
-| 5G 모바일 엣지 컴퓨팅(MEC) 기술 표준 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/2nd/presentation/2nd_02_MEC_standard.pdf)| 이승익 책임<BR>(ETRI) | 
+| 5G 모바일 엣지 컴퓨팅(MEC) 기술 표준 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/2nd/presentation/2nd_02_MEC_standard.pdf))| 이승익 책임<BR>(ETRI) | 
 Coffee Break 
 | 저지연 입출력 집약적 엣지 데이터 처리를 위한 스토리지 모듈 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/2nd/presentation/2nd_03_edge_storage.pdf)) | 박성순 대표<BR>(글루시스) |
 | 엣지 클라우드의 데이터 관리와 데이터 거버넌스 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/2nd/presentation/2nd_04_data_governance.pdf)) | 심상규 CTO<BR>(펜타시큐리티) |
