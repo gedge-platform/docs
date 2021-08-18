@@ -7,13 +7,13 @@ Our Community shares technical materials created during GEdge Platform developme
 
 <BR>
 
-## GEdge Platform Conference materials (PPT files and Movie clips)
+## GEdge Platform Conference Presentation Materials (PDF files)
 - [2nd Open Conference](https://github.com/gedge-platform/docs/tree/master/conference/2nd "docs/conference/2nd")
 <BR>
 
-## Other event presentation materials (PPT files)
+## Other Event Presentation Materials (PDF files)
 
-- [Other event presentations]
+- [Other Event Presentations]
 
 
 <BR>
