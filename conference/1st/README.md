@@ -13,8 +13,8 @@
 |       | Coffee Break 
 |  5th  | GS-Engine : 엣지 서비스 실행 가속을 위한 SW/인프라 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/1st/presentation/1st_04_gsengine.pdf)) | 최현화 CD<BR>(Core Developer) |
 |  6th  | GS-Scheduler : 최적 자원 배치를 위한 스케줄링 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/1st/presentation/1st_05_gsscheduler.pdf)) | 장수민 CD<BR>(Core Developer) |
-|  7th  | GS-Broker : SMQ 기반의 이종 엣지 디바이스 데이터 고속 처리 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/1st/presentation/1st_06_gslink.pdf)) | 김현우 CD<BR>(Core Developer) |
-|  8th  | GS-Link : 딥러닝을 활용한 클라우드 엣지 수직/수평적 협업 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/1st/presentation/1st_07_gmcenter.pdf)) | 윤주상 CD<BR>(Core Developer) |
+|  7th  | GS-Broker : SMQ 기반의 이종 엣지 디바이스 데이터 고속 처리 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/1st/presentation/1st_06_gsbroker.pdf)) | 김현우 CD<BR>(Core Developer) |
+|  8th  | GS-Link : 딥러닝을 활용한 클라우드 엣지 수직/수평적 협업 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/1st/presentation/1st_07_gslink.pdf)) | 윤주상 CD<BR>(Core Developer) |
 |       | Coffee Break
 |  9th  | GS-AI : Edge AI를 위한 딥러닝 실행 환경 최적화/작업 흐름 관리 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/1st/presentation/1st_08_gsai1.pdf)) | 김성용 CD<BR>(Core Developer) |
 |  10th | GS-AI : 엣지에 최적화된 학습 및 추론 실행 환경 구성/관리 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/1st/presentation/1st_09_gsai2.pdf)) | 조정현 CD<BR>(Core Developer) |
