@@ -8,6 +8,7 @@ Our Community shares technical materials created during GEdge Platform developme
 <BR>
 
 ## GEdge Platform Conference Presentation Materials (PDF files)
+- [1st Open Conference](https://github.com/gedge-platform/docs/tree/master/conference/1st "docs/conference/1st")
 - [2nd Open Conference](https://github.com/gedge-platform/docs/tree/master/conference/2nd "docs/conference/2nd")
 <BR>
 
