@@ -1,5 +1,5 @@
 ## GEdge Platform 2회 오픈 컨퍼런스 개요
-<p align="center">
+<p align="left">
   <img src="https://github.com/gedge-platform/docs/blob/main/conference/2nd/images/2nd_conference.jpg">
 </p>
 
