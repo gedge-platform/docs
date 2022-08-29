@@ -6,7 +6,7 @@
 ## 컨퍼런스 프로그램 및 발표 자료
 | 순번 | 세션 내용 | 발표자 |
 |:---------------------------------: | :---------------------------------: | :---------------------------------: |
-|  1st  | Openning Remark ㅣ김선욱 PL<BR>(Project Leader) |
+|  1st  | Openning Remark ㅣ 김선욱 PL<BR>(Project Leader) |
 |  2nd  | 클라우드 중심의 엣지 컴퓨팅 플렛폼 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/3rd/presentation/01.김선욱.pdf)) | 김선욱 PL |
 |  3rd  | 지능형 엣지 서비스 실행가속을 위한 SW/인프라 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/3rd/presentation/02.최현화.pdf)) | 최현화 FL<BR>(Framework Leader) |
 |  4th  | 다중 클라우드 엣지간 데이터 고속처리를 위한 GS-MQ 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/3rd/presentation/03.김현우.pdf)) | 김현우 CD<BR>(Core Developer) | 
