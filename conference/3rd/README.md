@@ -6,7 +6,7 @@
 ## 컨퍼런스 프로그램 및 발표 자료
 | 순번 | 세션 내용 | 발표자 |
 |:---------------------------------: | :---------------------------------: | :---------------------------------: |
-|  1st  | Openning Remark | ㅣ김선욱 PL<BR>(Project Leader) |
+|  1st  | Openning Remark ㅣ김선욱 PL<BR>(Project Leader) |
 |  2nd  | 클라우드 중심의 엣지 컴퓨팅 플렛폼 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/3rd/presentation/01.김선욱.pdf)) | 김선욱 PL |
 |  3rd  | 지능형 엣지 서비스 실행가속을 위한 SW/인프라 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/3rd/presentation/02.최현화.pdf)) | 최현화 FL<BR>(Framework Leader) |
 |  4th  | 다중 클라우드 엣지간 데이터 고속처리를 위한 GS-MQ 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/3rd/presentation/03.김현우.pdf)) | 김현우 CD<BR>(Core Developer) | 
@@ -17,6 +17,6 @@
 |  8th  | 다중 클라우드 엣지 인프라 구성 및 서비스 관리 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/3rd/presentation/07.김바울.pdf)) | 김바울 FL<BR>(Framework Leader) |
 |       | Coffee Break
 |  9th  | 엣지 기반 AI/ML 서비스 흐름관리 및 실행환경 최적화 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/3rd/presentation/08.김성용.pdf)) | 김성용 FL<BR>(Framework Leader) |
-|  10th  | 클라우드 엣지 협업 기반 ML 학습 추론 실행 관리 기술 (https://github.com/gedge-platform/docs/blob/main/conference/3rd/presentation/09.조정현.pdf)) | 조정현 CD<BR>(Core Developer) |
+|  10th  | 클라우드 엣지 협업 기반 ML 학습 추론 실행 관리 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/3rd/presentation/09.조정현.pdf)) | 조정현 CD<BR>(Core Developer) |
 | 11th  | 행사 클로징 | 김선욱 PL<BR> |
 <BR>
