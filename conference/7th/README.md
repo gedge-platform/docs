@@ -1,7 +1,7 @@
 ﻿## GEdge Platform 7회 오픈 컨퍼런스 개요
 <p align="left">
-  <img src="https://github.com/gedge-platform/docs/blob/main/conference/6th/images/6th_conference1.jpg">
-  <img src="https://github.com/gedge-platform/docs/blob/main/conference/6th/images/6th_conference2.jpg">
+  <img src="https://github.com/gedge-platform/docs/blob/main/conference/7th/images/cccr_edm.jpg">
+
 </p>
 
 ## 컨퍼런스 프로그램 및 발표 자료
