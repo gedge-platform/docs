@@ -18,6 +18,6 @@
 |  8th  | [GM-Center/Tool] 다중 클라우드 엣지 인프라 구성 및 서비스 관리 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/5th/presentation/07.다중_클라우드_엣지_인프라_구성_및_서비스_관리_기술_김바울.pdf)) | 김바울<BR>(프레임워크 리더) |
 |       | Coffee Break
 |  9th  | [GS-aiflow] 엣지 기반 AI/ML 서비스 흐름관리 및 실행환경 최적화 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/5th/presentation/08.엣지_기반_AIML_서비스_흐름관리_및_실행환경_최적화_기술_김성용.pdf)) | 김성용<BR>(프레임워크 리더) |
-|  10th  | [GS-optops] 클라우드 엣지 협업 기반 ML 학습-추론 실행 관리 기술 ([PDF](09_.pdf)) | 조정현<BR>(코어 개발자) |
+|  10th  | [GS-optops] 클라우드 엣지 협업 기반 ML 학습-추론 실행 관리 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/5th/presentation/09.클라우드엣지협업ML학습_추론_실행관리기술_조정현.pdf)) | 조정현<BR>(코어 개발자) |
 | 11th  | Closing Remarks | 김선욱<BR>(커뮤니티 리더) |
 <BR>
