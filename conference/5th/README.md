@@ -8,7 +8,7 @@
 | 순번 | 세션 내용 | 발표자 |
 |:---------------------------------: | :---------------------------------: | :---------------------------------: |
 |  1st  | Openning Remark | 김선욱<BR>(커뮤니티 리더) |
-|  2nd  | [GEdge Platform] 클라우드 중심의 엣지 컴퓨팅 플랫폼 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/5th/presentation/01.클라우드중심의엣지컴퓨팅_김선욱.pdf)) | 김선욱<BR>(커뮤니티 리더) |
+|  2nd  | [GEdge Platform] 클라우드 중심의 엣지 컴퓨팅 플랫폼 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/5th/presentation/01.클라우드_중심의_엣지_컴퓨팅.pdf)) | 김선욱<BR>(커뮤니티 리더) |
 |  3rd  | [GS-Engine] 지능형 엣지 서비스 실행가속을 위한 SW/인프라 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/5th/presentation/02.지능형_엣지_서비스_실행_가속을_위한_SW인프라_기술_차재근.pdf)) | 차재근<BR>(코어 개발자) |
 |  4th  | [GS-Broker] 다중 클라우드 엣지간 데이터 고속처리를 위한 GS-MQ 기술 ([PDF](03_.pdf)) | 김현우<BR>(코어 개발자) |
 |  5th  | [GS-Scheduler] 최적 자원 배치를 위한 글로벌 스케줄링 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/5th/presentation/04.최적_자원_배치를_위한_글로벌_스케줄링_기술_장수민.pdf)) | 장수민<BR>(코어 개발자) |
