@@ -8,7 +8,7 @@
 | 순번 | 세션 내용 | 발표자 |
 |:---------------------------------: | :---------------------------------: | :---------------------------------: |
 |  1st  | Openning Remark | 김선욱<BR>(커뮤니티 리더) |
-|  2nd  | GEdge Platform - 클라우드 중심의 엣지 컴퓨팅 플랫폼 | 김선욱<BR>(커뮤니티 리더) |
+|  2nd  | GEdge Platform - 클라우드 중심의 엣지 컴퓨팅 플랫폼([PDF](https://github.com/gedge-platform/docs/blob/main/conference/7th/presentation/01.클라우드중심의엣지컴퓨팅SW플랫폼핵심기술.pdf)) | 김선욱<BR>(커뮤니티 리더) |
 |  3rd  | GS-Engine - 지능형 엣지 서비스 실행가속을 위한 SW/인프라 기술(Q&A) | 차재근<BR>(커뮤니티 멤버) |
 |  4th  | GS-Broker - 다중 클라우드 엣지간 데이터 고속처리를 위한 GS-MQ 기술(Q&A) | 김현우<BR>(커뮤니티 멤버) |
 |  5th  | GS-Scheduler - 최적 자원 배치를 위한 글로벌 스케줄링 기술(Q&A) | 장수민<BR>(커뮤니티 멤버) |
