@@ -10,7 +10,7 @@
 |  1st  | Openning Remark | 김선욱<BR>(커뮤니티 리더) |
 |  2nd  | [GEdge Platform] 클라우드 중심의 엣지 컴퓨팅 플랫폼 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/5th/presentation/01.클라우드_중심의_엣지_컴퓨팅.pdf)) | 김선욱<BR>(커뮤니티 리더) |
 |  3rd  | [GS-Engine] 지능형 엣지 서비스 실행가속을 위한 SW/인프라 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/5th/presentation/02.지능형_엣지_서비스_실행_가속을_위한_SW인프라_기술_차재근.pdf)) | 차재근<BR>(코어 개발자) |
-|  4th  | [GS-Broker] 다중 클라우드 엣지간 데이터 고속처리를 위한 GS-MQ 기술 ([PDF](03_.pdf)) | 김현우<BR>(코어 개발자) |
+|  4th  | [GS-Broker] 다중 클라우드 엣지간 데이터 고속처리를 위한 GS-MQ 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/5th/presentation/03_다중클라우드엣지간데이터고속처리_GS-MQ기술_김현우.pdf)) | 김현우<BR>(코어 개발자) |
 |  5th  | [GS-Scheduler] 최적 자원 배치를 위한 글로벌 스케줄링 기술 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/5th/presentation/04.최적_자원_배치를_위한_글로벌_스케줄링_기술_장수민.pdf)) | 장수민<BR>(코어 개발자) |
 |       |Coffee Break  
 |  6th  | [GS-Linkgw] GEdge 플랫폼의 협업 구조 및 성능 향상 방안 ([PDF](https://github.com/gedge-platform/docs/blob/main/conference/5th/presentation/05.GEdge_플랫폼의_협업_구조_및_성능_향상_방안_김대원.pdf)) | 김대원<BR>(프레임워크 리더) |
